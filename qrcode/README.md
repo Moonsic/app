@@ -1,0 +1,2 @@
+# app/qrcode
+app/qrcode
